@@ -33,6 +33,7 @@ body {
 
   /*-- description on home page--*/
   .description {
+      padding-top: 20px;
       text-align: center;
   }
 
@@ -57,4 +58,9 @@ body {
     max-width: 560px;
     width: 100%;
     margin: 0 auto;
+}
+
+.honors {
+  border: solid;
+  display: block;
 }
