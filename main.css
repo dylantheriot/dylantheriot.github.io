@@ -1,10 +1,9 @@
-body {
+/*body {
     padding: 0;
     margin: 0;
     background: #f2f6e9;
   }
   
-  /*--- navigation bar ---*/
   
   .navbar {
     background:#303F9F;
@@ -31,7 +30,6 @@ body {
     justify-content: flex-end;
   }
 
-  /*-- description on home page--*/
   .description {
       padding-top: 20px;
       text-align: center;
@@ -43,11 +41,6 @@ body {
     border: solid;
 }
 
-/* .evenly {
-    display:flex;
-    justify-content:space-evenly;
-    text-align: left;
-  } */
 
   .col {
       border: solid;
@@ -63,4 +56,40 @@ body {
 .honors {
   border: solid;
   display: block;
+}
+
+.dylanContainer {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+*/
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  z-index: 1;
+  background-color: rgb(137, 148, 221)
+}
+
+.eLink-nav-pills li a{
+  padding: 0px;
+}
+.pLink-nav-pills li a {
+  padding: 2px;
+  border: solid;
+  margin: 1px;
+  border-color: black;
+}
+
+.carousel-inner {
+  width: 100%;
+  height: 200px;
+}
+.carousel-inner > .item {
+  display: block;
+  max-width: 100%;
+  height: 200px;
 }

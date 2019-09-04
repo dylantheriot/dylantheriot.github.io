@@ -1,101 +1,114 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE-edge">
-        <title>Dylan Theriot</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-        
-        <!--Bootstrap 4 Stuff-->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>    
-    </head>
+<html lang="eng">
+
+<head>
+    <title>Dylan Theriot</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+
 <body>
-    <!--Bootstrap 4 Stuff-->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    
-    <nav class="navbar navbar-expand-md">
-            <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
-                    <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="main-navigation">
-              <ul class="navbar-nav nav-fill w-100">
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.linkedin.com/in/dylan-theriot/" target="_blank">LinkedIn</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="Theriot_Official_Resume_GitHub.pdf" target="_blank">Resume</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="github.com/dylantheriot" target="_blank">GitHub</a>
-                </li>
-              </ul>
+    <div class="jumbotron text-center">
+        <h1>Dylan Theriot</h1>
+        <p>Computer Science // Brockman Scholar // Professional Napper</p>
+    </div>
+
+    <nav class="navbar navbar-inverse navbar-static-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand">DT</a>
             </div>
+            <div class="collapse navbar-collapse" id="main-navigation">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">More Info</a></li>
+                    <li><a href="#">Resume</a></li>
+                </ul>
+            </div>
+            </div>
+        </div>
     </nav>
 
-    <div class="description">
-        <h1>Dylan Theriot</h1>
-        <p>
-            Howdy! I am a sophomore computer science student at Texas A&M minoring in cybersecurity.<br>
-            Contact me at <strong>dylantheriot@tamu.edu</strong> or <strong>(832) 563-7508</strong>  .
-        </p>
-        <div class="container">
-            <div class="row evenly">
-                <div></div>
-                <div class="col columnInfo">
-                    <p>
-                        <h2><u>Projects:</u></h2>
-                        <a href="https://dtheriot.itch.io/the-deman-within" target="_blank">The DeMan Within</a><br>
-                        <a href="https://github.com/dylantheriot/avengers_soundboard/blob/master/README.md" target="_blank">Avengers Soundboard</a><br>
-                        <a href="https://github.com/dylantheriot/michaels-button/blob/master/README.md" target="_blank">Michael's Button</a><br>
-                        <a href="http://chillennium.com/" target="_blank">Chillennium</a><br>
-                        <a href="https://devpost.com/software/mydigiceipt" target="_blank">MyDigiceipt</a>
-                    </p>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h2>About Me</h2>
+                <p> Howdy! I am a sophomore computer science student at Texas A&M minoring in cybersecurity.<br>
+                    I am currently looking for a SWE Internship for the summer of 2020.<br>
+                    Contact me at <strong>dylantheriot@tamu.edu</strong> or <strong>(832) 563-7508</strong>.</p>
+                <h2>External Links</h2>
+                <ul class="nav nav-pills nav-stacked eLink-nav-pills">
+                    <li><a>LinkedIn</a></li>
+                    <li><a>GitHub</a></li>
+                    <li><a>Resume</a></li>
+                    <li><a>YouTube</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8">
+                <h1>Projects</h1>
+                <div class="row">
+                    <div class="col-sm-2 nav-stacked pLink-nav-pills">
+                        <ul class="nav nav-pills">
+                            <li><a>The DeMan Within</a></li>
+                            <li><a>Avengers Soundboard</a></li>
+                            <li><a>Michael's Button</a></li>
+                            <li><a>Chillennium</a></li>
+                            <li><a>MyDigiceipt</a></li>
+                        </ul>
+                    </div>
+                <div class="col-md-10">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                            </ol>
+                        
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <img src="https://github.com/dylantheriot/avengers_soundboard/blob/master/readme_images/characterSelect.PNG?raw=true" alt="...">
+                                <div class="carousel-caption">
+                                ...
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="..." alt="...">
+                                <div class="carousel-caption">
+                                ...
+                                </div>
+                            </div>
+                            ...
+                            </div>
+                        
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                            </a>
+                    </div>
                 </div>
-                <div class="col columnInfo">
-                    <p>
-                            <h2><u>Interests:</u></h2>
-                            Mobile/Web App Development<br>
-                            Cybersecurity<br>
-                            Data Science<br>
-                            Computer Vision<br>
-                            IoT
-                    </p>
-                </div>
-                <div class="col columnInfo">
-                    <p>
-                        <h2><u>Links:</u></h2>
-                        <a href="Theriot_Official_Resume_GitHub.pdf" target="_blank">Resume</a><br>
-                        <a href="https://www.linkedin.com/in/dylan-theriot/" target="_blank">LinkedIn</a><br>
-                        <a href="https://github.com/dylantheriot" target="_blank">GitHub</a><br>
-                        <a href="https://www.youtube.com/channel/UCDFnmDAXP6B8oHfWUSpes0Q?disable_polymer=true" target="_blank">YouTube</a>
-                    </p>
-                </div>
-                <div></div>
+            </div>
             </div>
         </div>
     </div>
-    <br>
-    <div class="youtubeVideo">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Rv6obDLScZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+    <div class="jumbotron text-center">
+        <p>feet</p>
     </div>
-
-    <br>
-
-    <!-- <div class="honors">
-        <h2>Honors Information</h2>
-        <p>
-            Brockman Scholar<br>
-            Engineering Honors<br>
-            National Merit Scholar<br>
-            Dean's Honor Roll<br>
-            Salutatorian for Clear Lake High School c/o 2018<br>
-        </p>
-    </div>
-    <footer>test</footer> -->
 </body>
+
 </html>
