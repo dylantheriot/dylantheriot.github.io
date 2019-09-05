@@ -3,7 +3,7 @@ body {
   background-color: #EEEEEE;
 }
 
-.nav-pills>li>a:hover, .nav-pills>li>a:focus{
+.nav-pills>li>a:hover{
   background-color: rgb(195, 214, 224);
   }
   
