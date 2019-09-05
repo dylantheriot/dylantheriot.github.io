@@ -47,12 +47,6 @@
       padding: 10px;
   }
 
-.youtubeVideo {
-    max-width: 560px;
-    width: 100%;
-    margin: 0 auto;
-}
-
 .honors {
   border: solid;
   display: block;
@@ -63,6 +57,18 @@
   margin-right: 20px;
 }
 */
+
+body {
+  font-size: 180%;
+}
+
+.youtubeVideo {
+  max-width: 560px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 
 .navbar {
   margin-bottom: 0px;
