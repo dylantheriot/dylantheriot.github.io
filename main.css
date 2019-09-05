@@ -83,19 +83,23 @@ body {
 .eLink-nav-pills li a{
   padding: 0px;
 }
+.pLink-nav-pills ul {
+  display: table;
+  width: 100%;
+  list-style: none;
+}
+.pLink-nav-pills li {
+  display: table-cell;
+  text-align: center;
+}
 .pLink-nav-pills li a {
-  padding: 2px;
   border: solid;
-  margin: 1px;
   border-color: black;
+  text-align: center;
+  display: block;
 }
 
 .carousel-inner {
   width: 100%;
-  height: 200px;
-}
-.carousel-inner > .item {
-  display: block;
-  max-width: 100%;
-  height: 200px;
+  height: 400px;
 }
