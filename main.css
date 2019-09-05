@@ -1,6 +1,19 @@
 body {
   font-size: 180%;
-  /* background-color: #EEEEEE; */
+  background-color: #EEEEEE;
+}
+
+.nav-pills>li>a:hover, .nav-pills>li>a:focus{
+  background-color: rgb(195, 214, 224);
+  }
+  
+  /* background-color: rgb(195, 214, 224); */
+.jumbo-paral {
+    background-image: url("images/paral_bgd.jpg");  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .youtubeVideo {
