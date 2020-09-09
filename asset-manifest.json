@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.435d6a58.chunk.css",
+    "main.js": "./static/js/main.a84cd6c1.chunk.js",
+    "main.js.map": "./static/js/main.a84cd6c1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1f8d02b9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1f8d02b9.js.map",
+    "static/js/2.6170981f.chunk.js": "./static/js/2.6170981f.chunk.js",
+    "static/js/2.6170981f.chunk.js.map": "./static/js/2.6170981f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8c041e0b2d5dc758d1c865ca7c9dddeb.js": "./precache-manifest.8c041e0b2d5dc758d1c865ca7c9dddeb.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.435d6a58.chunk.css.map": "./static/css/main.435d6a58.chunk.css.map",
+    "static/js/2.6170981f.chunk.js.LICENSE.txt": "./static/js/2.6170981f.chunk.js.LICENSE.txt",
+    "static/media/25-to-5.jpg": "./static/media/25-to-5.3c2abd59.jpg",
+    "static/media/index.css": "./static/media/AvenirNext-Regular-08.e9900c93.woff",
+    "static/media/Theriot_Official_Resume.pdf": "./static/media/Theriot_Official_Resume.2d5e3ba8.pdf",
+    "static/media/apartly.jpg": "./static/media/apartly.81731096.jpg",
+    "static/media/avengerssoundboard.png": "./static/media/avengerssoundboard.a38be92c.png",
+    "static/media/boxbro.png": "./static/media/boxbro.c2609b6d.png",
+    "static/media/cfa.png": "./static/media/cfa.44d37851.png",
+    "static/media/chillennium.jpg": "./static/media/chillennium.3bc906a5.jpg",
+    "static/media/eco-mode.png": "./static/media/eco-mode.6cdbd2bc.png",
+    "static/media/fiestafinder.jpg": "./static/media/fiestafinder.0c1629b8.jpg",
+    "static/media/hacker.jpg": "./static/media/hacker.671c9092.jpg",
+    "static/media/hcss.jpg": "./static/media/hcss.afbb7c2a.jpg",
+    "static/media/hobbies.JPG": "./static/media/hobbies.f3ec6f2a.JPG",
+    "static/media/mydigiceipt.jpg": "./static/media/mydigiceipt.9bce688e.jpg",
+    "static/media/sec.png": "./static/media/sec.d6dd1ba9.png",
+    "static/media/sos.jpg": "./static/media/sos.3e1d2e2b.jpg",
+    "static/media/tamu.jpg": "./static/media/tamu.e5afa1b2.jpg",
+    "static/media/tamuhack.jpg": "./static/media/tamuhack.0d8102f9.jpg",
+    "static/media/thedemanwithin.png": "./static/media/thedemanwithin.66baeaf8.png",
+    "static/media/theriot_pfp.png": "./static/media/theriot_pfp.3c90196a.png",
+    "static/media/wildcat.jpg": "./static/media/wildcat.ef462710.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8d02b9.js",
+    "static/js/2.6170981f.chunk.js",
+    "static/css/main.435d6a58.chunk.css",
+    "static/js/main.a84cd6c1.chunk.js"
+  ]
+}
