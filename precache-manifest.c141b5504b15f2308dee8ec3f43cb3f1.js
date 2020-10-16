@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1422b1384d0bd125eecda13afa8f03a9",
+    "revision": "4f020468dfb5383b27bd618e2e103802",
     "url": "./index.html"
   },
   {
-    "revision": "a6918550040f34f4747e",
+    "revision": "444ffb8f5d1c2e2e9cd0",
     "url": "./static/css/main.435d6a58.chunk.css"
   },
   {
-    "revision": "c64af6612489d2242e4f",
-    "url": "./static/js/2.6170981f.chunk.js"
+    "revision": "e7101e4362017c06044c",
+    "url": "./static/js/2.d9a63ddc.chunk.js"
   },
   {
     "revision": "4bf00ea42f5dad8ab33d5f32afec9baf",
-    "url": "./static/js/2.6170981f.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.d9a63ddc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6918550040f34f4747e",
-    "url": "./static/js/main.a84cd6c1.chunk.js"
+    "revision": "444ffb8f5d1c2e2e9cd0",
+    "url": "./static/js/main.ffe40484.chunk.js"
   },
   {
     "revision": "83130f59d7850caacbf6",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/AvenirNext-Regular-08.e9900c93.woff"
   },
   {
-    "revision": "2d5e3ba8f13a9b1d75215a6b6c5ff444",
-    "url": "./static/media/Theriot_Official_Resume.2d5e3ba8.pdf"
+    "revision": "457f82376bceb0b03ebf2e65be3a3b5c",
+    "url": "./static/media/Theriot_Official_Resume.457f8237.pdf"
   },
   {
     "revision": "817310961c4f56e4259f2fbec84339f0",
