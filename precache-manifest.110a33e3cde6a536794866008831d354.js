@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c9b10238283e2a1b9a08957765824e9",
+    "revision": "70c4e9fe1d028b507396292ca83fe18c",
     "url": "./index.html"
   },
   {
-    "revision": "80fce977eeae1c25c366",
+    "revision": "4c9dad27395ffe444cc1",
     "url": "./static/css/main.053659ec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.3b26cd1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80fce977eeae1c25c366",
-    "url": "./static/js/main.22f9a010.chunk.js"
+    "revision": "4c9dad27395ffe444cc1",
+    "url": "./static/js/main.f28c7a70.chunk.js"
   },
   {
     "revision": "83130f59d7850caacbf6",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/AvenirNext-Regular-08.e9900c93.woff"
   },
   {
-    "revision": "457f82376bceb0b03ebf2e65be3a3b5c",
-    "url": "./static/media/Theriot_Official_Resume.457f8237.pdf"
+    "revision": "04e01885163fccf50bac6dc937ad1ffb",
+    "url": "./static/media/Theriot_Official_Resume.04e01885.pdf"
   },
   {
     "revision": "817310961c4f56e4259f2fbec84339f0",
