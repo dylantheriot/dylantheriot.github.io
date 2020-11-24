@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.053659ec.chunk.css",
-    "main.js": "./static/js/main.f28c7a70.chunk.js",
-    "main.js.map": "./static/js/main.f28c7a70.chunk.js.map",
+    "main.js": "./static/js/main.50f0acf2.chunk.js",
+    "main.js.map": "./static/js/main.50f0acf2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1f8d02b9.js",
     "runtime-main.js.map": "./static/js/runtime-main.1f8d02b9.js.map",
     "static/js/2.3b26cd1b.chunk.js": "./static/js/2.3b26cd1b.chunk.js",
     "static/js/2.3b26cd1b.chunk.js.map": "./static/js/2.3b26cd1b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.110a33e3cde6a536794866008831d354.js": "./precache-manifest.110a33e3cde6a536794866008831d354.js",
+    "precache-manifest.d2d7f080c16f251837745c924dc91a32.js": "./precache-manifest.d2d7f080c16f251837745c924dc91a32.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.053659ec.chunk.css.map": "./static/css/main.053659ec.chunk.css.map",
     "static/js/2.3b26cd1b.chunk.js.LICENSE.txt": "./static/js/2.3b26cd1b.chunk.js.LICENSE.txt",
     "static/media/25-to-5.jpg": "./static/media/25-to-5.3c2abd59.jpg",
     "static/media/index.css": "./static/media/AvenirNext-Regular-08.e9900c93.woff",
-    "static/media/Theriot_Official_Resume.pdf": "./static/media/Theriot_Official_Resume.04e01885.pdf",
+    "static/media/Theriot_Official_Resume.pdf": "./static/media/Theriot_Official_Resume.ea21a26b.pdf",
     "static/media/apartly.jpg": "./static/media/apartly.81731096.jpg",
     "static/media/avengerssoundboard.png": "./static/media/avengerssoundboard.a38be92c.png",
     "static/media/boxbro.png": "./static/media/boxbro.c2609b6d.png",
@@ -26,6 +26,7 @@
     "static/media/hacker.jpg": "./static/media/hacker.671c9092.jpg",
     "static/media/hcss.jpg": "./static/media/hcss.afbb7c2a.jpg",
     "static/media/hobbies.JPG": "./static/media/hobbies.f3ec6f2a.JPG",
+    "static/media/magpie.png": "./static/media/magpie.b4120d45.png",
     "static/media/mydigiceipt.jpg": "./static/media/mydigiceipt.9bce688e.jpg",
     "static/media/prankme.png": "./static/media/prankme.34aaad33.png",
     "static/media/sec.png": "./static/media/sec.d6dd1ba9.png",
@@ -40,6 +41,6 @@
     "static/js/runtime-main.1f8d02b9.js",
     "static/js/2.3b26cd1b.chunk.js",
     "static/css/main.053659ec.chunk.css",
-    "static/js/main.f28c7a70.chunk.js"
+    "static/js/main.50f0acf2.chunk.js"
   ]
 }
