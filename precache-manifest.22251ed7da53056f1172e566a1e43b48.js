@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37da3c975035bea6fdd2d8395f204905",
+    "revision": "dd6ca2480decbcdc7cec2eacf3753904",
     "url": "./index.html"
   },
   {
-    "revision": "a955f048a6f938420fa2",
+    "revision": "b00354ebee098dd23bfc",
     "url": "./static/css/main.053659ec.chunk.css"
   },
   {
-    "revision": "5e7ff81ad4726bf5c51a",
-    "url": "./static/js/2.3b26cd1b.chunk.js"
+    "revision": "38b1a66be3cc6db1da9d",
+    "url": "./static/js/2.5716b050.chunk.js"
   },
   {
     "revision": "4bf00ea42f5dad8ab33d5f32afec9baf",
-    "url": "./static/js/2.3b26cd1b.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.5716b050.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a955f048a6f938420fa2",
-    "url": "./static/js/main.f9d969af.chunk.js"
+    "revision": "b00354ebee098dd23bfc",
+    "url": "./static/js/main.85232558.chunk.js"
   },
   {
     "revision": "83130f59d7850caacbf6",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/AvenirNext-Regular-08.e9900c93.woff"
   },
   {
-    "revision": "ea21a26b5134552df3dac887660734b1",
-    "url": "./static/media/Theriot_Official_Resume.ea21a26b.pdf"
+    "revision": "8597d98fd8ea3c713110231b7b5f6898",
+    "url": "./static/media/Theriot_Official_Resume.8597d98f.pdf"
   },
   {
     "revision": "817310961c4f56e4259f2fbec84339f0",
@@ -188,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/sec.d6dd1ba9.png"
   },
   {
+    "revision": "4f5ddfb363029d7910aa79d7d7141559",
+    "url": "./static/media/software.4f5ddfb3.png"
+  },
+  {
     "revision": "3e1d2e2b7959ad23e478e8708182c071",
     "url": "./static/media/sos.3e1d2e2b.jpg"
   },
@@ -206,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c90196ad2504bcaccfbcf6b43764a4b",
     "url": "./static/media/theriot_pfp.3c90196a.png"
+  },
+  {
+    "revision": "cf54c6f963e84c8df9dd963a5af122c6",
+    "url": "./static/media/twitch.cf54c6f9.jpg"
   },
   {
     "revision": "ef462710ee3eec9d4abbc520f9926d84",

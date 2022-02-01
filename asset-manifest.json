@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.053659ec.chunk.css",
-    "main.js": "./static/js/main.f9d969af.chunk.js",
-    "main.js.map": "./static/js/main.f9d969af.chunk.js.map",
+    "main.js": "./static/js/main.85232558.chunk.js",
+    "main.js.map": "./static/js/main.85232558.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1f8d02b9.js",
     "runtime-main.js.map": "./static/js/runtime-main.1f8d02b9.js.map",
-    "static/js/2.3b26cd1b.chunk.js": "./static/js/2.3b26cd1b.chunk.js",
-    "static/js/2.3b26cd1b.chunk.js.map": "./static/js/2.3b26cd1b.chunk.js.map",
+    "static/js/2.5716b050.chunk.js": "./static/js/2.5716b050.chunk.js",
+    "static/js/2.5716b050.chunk.js.map": "./static/js/2.5716b050.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5815d633644b376bf690ae00d1064cef.js": "./precache-manifest.5815d633644b376bf690ae00d1064cef.js",
+    "precache-manifest.22251ed7da53056f1172e566a1e43b48.js": "./precache-manifest.22251ed7da53056f1172e566a1e43b48.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.053659ec.chunk.css.map": "./static/css/main.053659ec.chunk.css.map",
-    "static/js/2.3b26cd1b.chunk.js.LICENSE.txt": "./static/js/2.3b26cd1b.chunk.js.LICENSE.txt",
+    "static/js/2.5716b050.chunk.js.LICENSE.txt": "./static/js/2.5716b050.chunk.js.LICENSE.txt",
     "static/media/25-to-5.jpg": "./static/media/25-to-5.3c2abd59.jpg",
     "static/media/index.css": "./static/media/AvenirNext-Regular-08.e9900c93.woff",
-    "static/media/Theriot_Official_Resume.pdf": "./static/media/Theriot_Official_Resume.ea21a26b.pdf",
+    "static/media/Theriot_Official_Resume.pdf": "./static/media/Theriot_Official_Resume.8597d98f.pdf",
     "static/media/apartly.jpg": "./static/media/apartly.81731096.jpg",
     "static/media/avengerssoundboard.png": "./static/media/avengerssoundboard.a38be92c.png",
     "static/media/boxbro.png": "./static/media/boxbro.c2609b6d.png",
@@ -30,17 +30,19 @@
     "static/media/mydigiceipt.jpg": "./static/media/mydigiceipt.9bce688e.jpg",
     "static/media/prankme.png": "./static/media/prankme.34aaad33.png",
     "static/media/sec.png": "./static/media/sec.d6dd1ba9.png",
+    "static/media/software.png": "./static/media/software.4f5ddfb3.png",
     "static/media/sos.jpg": "./static/media/sos.3e1d2e2b.jpg",
     "static/media/tamu.jpg": "./static/media/tamu.e5afa1b2.jpg",
     "static/media/tamuhack.jpg": "./static/media/tamuhack.0d8102f9.jpg",
     "static/media/thedemanwithin.png": "./static/media/thedemanwithin.66baeaf8.png",
     "static/media/theriot_pfp.png": "./static/media/theriot_pfp.3c90196a.png",
+    "static/media/twitch.jpg": "./static/media/twitch.cf54c6f9.jpg",
     "static/media/wildcat.jpg": "./static/media/wildcat.ef462710.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f8d02b9.js",
-    "static/js/2.3b26cd1b.chunk.js",
+    "static/js/2.5716b050.chunk.js",
     "static/css/main.053659ec.chunk.css",
-    "static/js/main.f9d969af.chunk.js"
+    "static/js/main.85232558.chunk.js"
   ]
 }
